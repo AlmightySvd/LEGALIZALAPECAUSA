@@ -4,11 +4,11 @@ let handler =  m => m.reply(`
 puedes donar si quieres ayudar a mantener el bot activo
 
 ▢ *PayPal*
-• *Link :* https://www.facebook.com/SvdRuthless/
+• *Link :* 
 ▢ *Mercado Pago Arg*
-• *Link :* https://www.facebook.com/SvdRuthless/
+• *Link :* 
 ▢ *Tigo Money*
-• *N° :*  https://www.facebook.com/SvdRuthless/ 
+• *N° :*   
 
 _Al donar consigues_  *Premium* 
 
