@@ -4,13 +4,13 @@ function handler(m) {
   
   m.reply(`
 *≡ OWNER*
-  *FG98*
+  *NADA-SERGIO*
 ▢ Instagram :
-  • https://www.facebook.com/SvdRuthless/
+  • http://Instagram.com/not.sxrgio
 ▢ WhatsApp :
-  • (escribe solo si es necesario) 
+  • (wa.me/2348035311575) 
 ▢ GitHub :
-  • https://github.com/FG98F
+  • 
 ▢ Telegram : 
   • https://www.facebook.com/SvdRuthless/ (FG) 
   • https://www.facebook.com/SvdRuthless/ (canal)
@@ -22,10 +22,10 @@ function handler(m) {
   • https://www.facebook.com/SvdRuthless/
   
  *≡ HELPERS*
-  *CRISS*
+  *SERGIO-NADA*
 ▢ Instagram : https://www.instagram.com/sayurizuniga3
 ▢ WhatsApp : wa.me/
-  *ANDREA*
+  *SOPORTE*
 ▢ Instagram : https://
 ▢ WhatsApp : wa.me/2348035311575
 `) 
