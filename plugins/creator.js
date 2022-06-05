@@ -23,7 +23,7 @@ function handler(m) {
   
  *≡ HELPERS*
   *SERGIO-NADA*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
+▢ Instagram : http://Instagram.com/not.sxrgio
 ▢ WhatsApp : wa.me/
   *SOPORTE*
 ▢ Instagram : https://
