@@ -48,7 +48,7 @@ handler.tags = ['group']
 handler.command = ['add']
 
 handler.admin = true
-handler.owner = true
+handler.admin = true
 handler.group = true
 handler.botAdmin = true
 
