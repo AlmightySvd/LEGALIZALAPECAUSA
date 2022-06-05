@@ -8,7 +8,7 @@ puedes donar si quieres ayudar a mantener el bot activo
 ▢ *Mercado Pago Arg*
 • *Link :* https://www.facebook.com/SvdRuthless/
 ▢ *Tigo Money*
-• *N° :*  75140648 
+• *N° :*  https://www.facebook.com/SvdRuthless/ 
 
 _Al donar consigues_  *Premium* 
 
