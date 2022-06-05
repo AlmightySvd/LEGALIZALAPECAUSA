@@ -4,9 +4,9 @@ let handler =  m => m.reply(`
 puedes donar si quieres ayudar a mantener el bot activo
 
 ▢ *PayPal*
-• *Link :* https://paypal.me/fg98f
+• *Link :* https://www.facebook.com/SvdRuthless/
 ▢ *Mercado Pago Arg*
-• *Link :* https://mpago.la/1F3r6JH
+• *Link :* https://www.facebook.com/SvdRuthless/
 ▢ *Tigo Money*
 • *N° :*  75140648 
 
