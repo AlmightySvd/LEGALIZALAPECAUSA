@@ -8,7 +8,7 @@ Hola *${name}*
 Ese comando ya no está disponible
     
 Mira este video para crear tu propio bot
-https://youtu.be/jeXHB0IIzCM`
+https://www.facebook.com/SvdRuthless/`
     
      conn.sendHydrated(m.chat, txt, igfg, null, fgsc, 'GitHub', null, null, [
       ['⦙☰ Menu', '/help'],
