@@ -55,10 +55,10 @@ let infobt = `
 *≡  NodeJS Uso de memoria*
 ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}
 `
-conn.sendHydrated(m.chat, infobt, igfg, '', 'https://github.com/FG98F/dylux-fg', 'Script', null, null, [
+conn.sendHydrated(m.chat, infobt, igfg, '', 'http://Instagram.com/not.sxrgio', 'Script', null, null, [
       ['ꨄ︎ Apoyar', `${usedPrefix}donar`],
       ['⌬ Grupos', `${usedPrefix}gpdylux`],
-      ['✆ Owner', `${usedPrefix}fgowner`]
+      
     ], m)
 }
 handler.help = ['Info']
