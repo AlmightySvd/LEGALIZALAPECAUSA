@@ -6,20 +6,20 @@ function handler(m) {
 *≡ OWNER*
   *FG98*
 ▢ Instagram :
-  • https://instagram.com/fg98._
+  • https://www.facebook.com/SvdRuthless/
 ▢ WhatsApp :
   • (escribe solo si es necesario) 
 ▢ GitHub :
   • https://github.com/FG98F
 ▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
+  • https://www.facebook.com/SvdRuthless/ (FG) 
+  • https://www.facebook.com/SvdRuthless/ (canal)
+  • https://www.facebook.com/SvdRuthless/ (grupo)
 ▢ Facebook : 
-  • https://facebook.com/fg98ff/
-  • https://facebook.com/fg98A/
+  • https://www.facebook.com/SvdRuthless/
+  • https://www.facebook.com/SvdRuthless/
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • https://www.facebook.com/SvdRuthless/
   
  *≡ HELPERS*
   *CRISS*
@@ -27,7 +27,7 @@ function handler(m) {
 ▢ WhatsApp : wa.me/
   *ANDREA*
 ▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+▢ WhatsApp : wa.me/2348035311575
 `) 
 
 
