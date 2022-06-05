@@ -4,18 +4,18 @@ function handler(m) {
   
   m.reply(`
 *≡ OWNER*
-  *------*
+  *Sergio & Gabriel *
 ▢ Instagram :
-  • 
+  • instagram.com/not.sxrgio    
 ▢ WhatsApp :
-  • 
+  • wa.me/51977802958
   
  *≡ HELPERS*
   *-----------*
 ▢ Instagram : 
-▢ WhatsApp : wa.me/
+▢ WhatsApp : wa.me/51977802958
   *SOPORTE*
-▢ Instagram : 
+▢ Instagram : instagram.com/not.sxrgio
 ▢ WhatsApp : 
 `) 
 
