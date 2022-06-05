@@ -4,7 +4,7 @@ let handler =  m => m.reply(`
 puedes donar si quieres ayudar a mantener el bot activo
 
 ▢ *PayPal*
-• *Link :* Paypal.me/SsxrgioVD
+• *Link :*
  
 _Al donar consigues_  *Premium* 
 
